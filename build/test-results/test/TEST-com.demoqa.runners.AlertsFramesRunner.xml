@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.demoqa.runners.AlertsFramesRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="FLIAGUERREROCAM" time="0.0">
+  <properties/>
+  <system-out><![CDATA[14:57:56.150 [Test worker] DEBUG net.thucydides.core.guice.Injectors -- Created injector for module net.thucydides.core.guice.ThucydidesModule
+14:57:56.261 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter -- Running feature from file:///C:/Users/kguer/IdeaProjects/RetoTCS/src/test/resources/com.demoqa.features/AlertsFrame.feature
+14:57:56.261 [Test worker] WARN io.cucumber.core.plugin.SerenityReporter -- Feature from file:///C:/Users/kguer/IdeaProjects/RetoTCS/src/test/resources/com.demoqa.features/AlertsFrame.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+14:57:56.449 [Test worker] DEBUG net.thucydides.core.guice.Injectors -- Created injector for module net.thucydides.core.guice.webdriver.WebDriverModule
+14:57:56.481 [Test worker] INFO  -- 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+14:57:56.481 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus -- Test suite started for story net.thucydides.core.model.Story@944d36b5
+14:57:56.481 [Test worker] INFO  -- Test Suite Started: the user go to alert
+14:57:56.512 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter -- Running feature from file:///C:/Users/kguer/IdeaProjects/RetoTCS/src/test/resources/com.demoqa.features/AlertsFrame.feature
+14:57:56.512 [Test worker] WARN io.cucumber.core.plugin.SerenityReporter -- Feature from file:///C:/Users/kguer/IdeaProjects/RetoTCS/src/test/resources/com.demoqa.features/AlertsFrame.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+14:57:56.512 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus -- Test suite started for story net.thucydides.core.model.Story@944d36b5
+14:57:56.512 [Test worker] INFO  -- Test Suite Started: the user go to alert
+14:58:25.168 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Reporting formats: [JSON, HTML]
+14:58:25.341 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Reporting formats: [JSON, HTML]
+14:58:25.357 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@4fea095b
+14:58:25.357 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService -- Processing test outcome the user go to alert:the user wants to test the website in the alert
+14:58:25.357 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService -- net.thucydides.core.reports.json.JSONTestOutcomeReporter@4fea095b: Generating report for test outcome: the user go to alert:the user wants to test the website in the alert
+14:58:25.372 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter -- Generating JSON report for the user wants to test the website in the alert to file C:\Users\kguer\IdeaProjects\RetoTCS\target\site\serenity\5be54f17f0f2acb5de16789bc903cbc5bb71a13de8921300c6f69dff72e78b4a.json (using temp file C:\Users\kguer\IdeaProjects\RetoTCS\target\site\serenity\5be54f17f0f2acb5de16789bc903cbc5bb71a13de8921300c6f69dff72e78b4a.jsonfb7bcfd9-b909-48f3-adbc-003caba1f335)
+14:58:25.435 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService -- Processing test outcome the user go to alert:the user wants to test the website in the alert done
+14:58:25.435 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Shutting down executor service
+14:58:25.435 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Reports generated in: 78 ms
+14:58:25.435 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@72015156
+14:58:25.444 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService -- Processing test outcome the user go to alert:the user wants to test the website in the alert
+14:58:25.444 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService -- net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@72015156: Generating report for test outcome: the user go to alert:the user wants to test the website in the alert
+14:58:25.485 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -- Requirements loaded in 00:00:00.020
+14:58:25.485 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -- Requirements loaded and indexed in 00:00:00.023
+14:58:25.493 [pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider -- Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:229)
+	at java.base/java.io.File.toPath(File.java:2329)
+	at net.thucydides.core.requirements.RootDirectory.getRelativePathOf(RootDirectory.java:364)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.requirementWithMatchingPath(FileSystemRequirementsTagProvider.java:362)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.getParentRequirementOf(FileSystemRequirementsTagProvider.java:325)
+	at net.thucydides.core.requirements.ParentRequirementsProvided.forOutcome(ParentRequirementsProvided.java:26)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementOf(BaseRequirementsService.java:145)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementFor(BaseRequirementsService.java:53)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addParentRequirmentFieldToContext(HtmlAcceptanceTestReporter.java:194)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addTestOutcomeToContext(HtmlAcceptanceTestReporter.java:188)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateReportFor(HtmlAcceptanceTestReporter.java:104)
+	at net.thucydides.core.reports.ReportService.generateReportFor(ReportService.java:246)
+	at net.thucydides.core.reports.ReportService.lambda$generateReportsFor$0(ReportService.java:184)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:58:25.493 [pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider -- Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:229)
+	at java.base/java.io.File.toPath(File.java:2329)
+	at net.thucydides.core.requirements.RootDirectory.getRelativePathOf(RootDirectory.java:364)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.requirementWithMatchingPath(FileSystemRequirementsTagProvider.java:362)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.getParentRequirementOf(FileSystemRequirementsTagProvider.java:325)
+	at net.thucydides.core.requirements.ParentRequirementsProvided.forOutcome(ParentRequirementsProvided.java:26)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementOf(BaseRequirementsService.java:145)
+	at net.thucydides.core.requirements.BaseRequirementsService.getAncestorRequirementsFor(BaseRequirementsService.java:85)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addBreadcrumbs(HtmlAcceptanceTestReporter.java:224)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addParentRequirmentFieldToContext(HtmlAcceptanceTestReporter.java:212)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addTestOutcomeToContext(HtmlAcceptanceTestReporter.java:188)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateReportFor(HtmlAcceptanceTestReporter.java:104)
+	at net.thucydides.core.reports.ReportService.generateReportFor(ReportService.java:246)
+	at net.thucydides.core.reports.ReportService.lambda$generateReportsFor$0(ReportService.java:184)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:58:25.493 [pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider -- Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:229)
+	at java.base/java.io.File.toPath(File.java:2329)
+	at net.thucydides.core.requirements.RootDirectory.getRelativePathOf(RootDirectory.java:364)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.requirementWithMatchingPath(FileSystemRequirementsTagProvider.java:362)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.getParentRequirementOf(FileSystemRequirementsTagProvider.java:325)
+	at net.thucydides.core.requirements.ParentRequirementsProvided.forOutcome(ParentRequirementsProvided.java:26)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementOf(BaseRequirementsService.java:145)
+	at net.thucydides.core.requirements.BaseRequirementsService.getAncestorRequirementsFor(BaseRequirementsService.java:85)
+	at net.thucydides.core.tags.BreadcrumbTagFilter.getRequirementBreadcrumbsFrom(BreadcrumbTagFilter.java:51)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addBreadcrumbs(HtmlAcceptanceTestReporter.java:225)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addParentRequirmentFieldToContext(HtmlAcceptanceTestReporter.java:212)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addTestOutcomeToContext(HtmlAcceptanceTestReporter.java:188)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateReportFor(HtmlAcceptanceTestReporter.java:104)
+	at net.thucydides.core.reports.ReportService.generateReportFor(ReportService.java:246)
+	at net.thucydides.core.reports.ReportService.lambda$generateReportsFor$0(ReportService.java:184)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:58:25.610 [pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider -- Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:229)
+	at java.base/java.io.File.toPath(File.java:2329)
+	at net.thucydides.core.requirements.RootDirectory.getRelativePathOf(RootDirectory.java:364)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.requirementWithMatchingPath(FileSystemRequirementsTagProvider.java:362)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.getParentRequirementOf(FileSystemRequirementsTagProvider.java:325)
+	at net.thucydides.core.requirements.ParentRequirementsProvided.forOutcome(ParentRequirementsProvided.java:26)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementOf(BaseRequirementsService.java:145)
+	at net.thucydides.core.requirements.BaseRequirementsService.getAncestorRequirementsFor(BaseRequirementsService.java:85)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addBreadcrumbs(HtmlAcceptanceTestReporter.java:224)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addParentRequirmentFieldToContext(HtmlAcceptanceTestReporter.java:212)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addTestOutcomeToContext(HtmlAcceptanceTestReporter.java:188)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateScreenshotReportsFor(HtmlAcceptanceTestReporter.java:252)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateReportFor(HtmlAcceptanceTestReporter.java:107)
+	at net.thucydides.core.reports.ReportService.generateReportFor(ReportService.java:246)
+	at net.thucydides.core.reports.ReportService.lambda$generateReportsFor$0(ReportService.java:184)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:58:25.610 [pool-2-thread-1] WARN net.thucydides.core.requirements.RequirementsTagProvider -- Failed to load requirements: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+java.nio.file.InvalidPathException: Illegal char <:> at index 4: file:\C:\Users\kguer\IdeaProjects\RetoTCS\src\test\resources\com.demoqa.features\AlertsFrame.feature
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:229)
+	at java.base/java.io.File.toPath(File.java:2329)
+	at net.thucydides.core.requirements.RootDirectory.getRelativePathOf(RootDirectory.java:364)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.requirementWithMatchingPath(FileSystemRequirementsTagProvider.java:362)
+	at net.thucydides.core.requirements.FileSystemRequirementsTagProvider.getParentRequirementOf(FileSystemRequirementsTagProvider.java:325)
+	at net.thucydides.core.requirements.ParentRequirementsProvided.forOutcome(ParentRequirementsProvided.java:26)
+	at net.thucydides.core.requirements.BaseRequirementsService.getParentRequirementOf(BaseRequirementsService.java:145)
+	at net.thucydides.core.requirements.BaseRequirementsService.getAncestorRequirementsFor(BaseRequirementsService.java:85)
+	at net.thucydides.core.tags.BreadcrumbTagFilter.getRequirementBreadcrumbsFrom(BreadcrumbTagFilter.java:51)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addBreadcrumbs(HtmlAcceptanceTestReporter.java:225)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addParentRequirmentFieldToContext(HtmlAcceptanceTestReporter.java:212)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.addTestOutcomeToContext(HtmlAcceptanceTestReporter.java:188)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateScreenshotReportsFor(HtmlAcceptanceTestReporter.java:252)
+	at net.thucydides.core.reports.html.HtmlAcceptanceTestReporter.generateReportFor(HtmlAcceptanceTestReporter.java:107)
+	at net.thucydides.core.reports.ReportService.generateReportFor(ReportService.java:246)
+	at net.thucydides.core.reports.ReportService.lambda$generateReportsFor$0(ReportService.java:184)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:62595 : 1
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Entry count for : http://localhost:36712 : 1
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Adding Candidate expired Channel [id: 0x25542981, L:/127.0.0.1:62604 ! R:localhost/127.0.0.1:62595] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closing Idle Channel [id: 0x25542981, L:/127.0.0.1:62604 ! R:localhost/127.0.0.1:62595]
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Adding Candidate expired Channel [id: 0xa4323960, L:/127.0.0.1:62591 ! R:localhost/127.0.0.1:36712] isIdleTimeoutExpired=false isRemotelyClosed=true isTtlExpired=false
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closing Idle Channel [id: 0xa4323960, L:/127.0.0.1:62591 ! R:localhost/127.0.0.1:36712]
+14:58:25.784 [AsyncHttpClient-1-1] DEBUG org.asynchttpclient.netty.channel.DefaultChannelPool -- Closed 2 connections out of 2 in 0 ms
+14:58:28.590 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService -- Processing test outcome the user go to alert:the user wants to test the website in the alert done
+14:58:28.590 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Shutting down executor service
+14:58:28.590 [Test worker] DEBUG net.thucydides.core.reports.ReportService -- Reports generated in: 3155 ms
+14:58:28.720 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom -- Closing darkroom
+14:58:28.720 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine -- Darkroom processing line shutting down
+14:58:28.741 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom -- Closing darkroom
+]]></system-out>
+  <system-err><![CDATA[?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+?[32m?[1m??[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m??[0m
+?[32m?[1m??[0m Activate publishing with one of the following:                                    ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m??[0m
+?[32m?[1m??[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m Disable this message with one of the following:                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m                                                                                   ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m??[0m
+?[32m?[1m??????????????????????????????????????????????????????????????????????????????????????[0m
+]]></system-err>
+</testsuite>
